@@ -1,0 +1,8 @@
+{
+  "name": "datar-idc",
+  "app_id": "e825e8b8",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
